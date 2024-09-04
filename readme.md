@@ -1,0 +1,1 @@
+This is a simple parallax frontend page.
